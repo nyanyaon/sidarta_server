@@ -1,0 +1,92 @@
+[
+    {
+        "wilayahid": "61386E3A0CA39580E040A8C010011B70",
+        "kode": "220404",
+        "nama": "BANJAR",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "61386E3A0C9D9580E040A8C010011B70",
+        "kode": "220405",
+        "nama": "BULELENG",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "61386E3A0CA19580E040A8C010011B70",
+        "kode": "220403",
+        "nama": "BUSUNGBIU",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "61386E3A0CA49580E040A8C010011B70",
+        "kode": "220401",
+        "nama": "GEROKGAK",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "61386E3A0CA09580E040A8C010011B70",
+        "kode": "220408",
+        "nama": "KUBUTAMBAHAN",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "61386E3A0C9F9580E040A8C010011B70",
+        "kode": "220407",
+        "nama": "SAWAN",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "61386E3A0C9C9580E040A8C010011B70",
+        "kode": "220402",
+        "nama": "SERIRIT",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "61386E3A0CA59580E040A8C010011B70",
+        "kode": "220406",
+        "nama": "SUKASADA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "61386E3A0C9E9580E040A8C010011B70",
+        "kode": "220409",
+        "nama": "TEJAKULA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "61384E13FA4F4D94E040A8C0100119F1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

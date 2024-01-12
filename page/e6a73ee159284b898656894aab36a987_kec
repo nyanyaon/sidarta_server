@@ -1,0 +1,142 @@
+[
+    {
+        "wilayahid": "b13882820918473f94eb757c4eb35127",
+        "kode": "200608",
+        "nama": "BALOCCI",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "bf41f22db48845bf9293a1516fb18ba1",
+        "kode": "200603",
+        "nama": "BUNGORO",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e3cfdadc5948425ba5bb0daf8305d931",
+        "kode": "200611",
+        "nama": "KALUKUANG MASALIMA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "298d2b0d7f27498eb9260b59fd1b590e",
+        "kode": "200604",
+        "nama": "LABAKKANG",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fbfb528f719d4c7794058afe7ade8d25",
+        "kode": "200610",
+        "nama": "LIUKANG TANGAYA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d31d67bc197248d89458f511ab69c733",
+        "kode": "200609",
+        "nama": "LIUKANG TUPABBIRING",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D948770613BF2318E043021D0B0AFE7A",
+        "kode": "200613",
+        "nama": "LIUKANG TUPABBIRING UTARA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(1360688400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8289a37f3bc7429c9492cb794be9be09",
+        "kode": "200607",
+        "nama": "MANDALLE",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "599f4ce50c7645c286a320b38cef5ebe",
+        "kode": "200605",
+        "nama": "MARANG",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "kode": "200602",
+        "nama": "MINASA TENE",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4b80b108d13646a58af9158a6813b7cb",
+        "kode": "200601",
+        "nama": "PANGKAJENE",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "87aa038d0b7f45d5b0de4c93dd87663b",
+        "kode": "200606",
+        "nama": "SEGERI",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "21eac391246f4edbbacc203c2de90f9c",
+        "kode": "200614",
+        "nama": "Segeri Mandalle",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "31bf2c59f5c84c0895a136368d969e43",
+        "kode": "200612",
+        "nama": "TONDONG TALLASA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "bbf1528a39cd43519753c87647b9d4b3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

@@ -1,0 +1,1372 @@
+[
+    {
+        "wilayahid": "732acc484cf145e3aa9fb0a5fa15e62d",
+        "kode": "20060508",
+        "nama": "Alesipitto",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8615c91ebee6452197752712ce9c5023",
+        "kode": "20060103",
+        "nama": "Anrong Appaka",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f437c17cae2040fcad600cae11c6c785",
+        "kode": "20060510",
+        "nama": "Attang salo",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a048a1aae6694217bd4eeb596f8763d7",
+        "kode": "20060803",
+        "nama": "Balleangin",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "b13882820918473f94eb757c4eb35127",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D95E18AF24F2F880E043031D0B0A6F10",
+        "kode": "20061007",
+        "nama": "Balo Baloang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "58bc65203ca34161a2a904913ac0f701",
+        "kode": "20060804",
+        "nama": "Balocci Baru",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "b13882820918473f94eb757c4eb35127",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "B599C62C9F68913BE0530B1D140A0D74",
+        "kode": "20060808",
+        "nama": "Banti Mala",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "b13882820918473f94eb757c4eb35127",
+        "validsejak": "/Date(-292575600000)/",
+        "validsampai": "/Date(1650266752000)/"
+    },
+    {
+        "wilayahid": "ddc7eeed936e4ee9be75ade2a6f83800",
+        "kode": "20061204",
+        "nama": "Bantimurung",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "31bf2c59f5c84c0895a136368d969e43",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "53c90d00e0734a96850a6ae681169797",
+        "kode": "20060412",
+        "nama": "Barabatu",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dbee74cd987a4d94aa24e4d10dea2cd8",
+        "kode": "20060605",
+        "nama": "Baring",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "87aa038d0b7f45d5b0de4c93dd87663b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "313190904b984d43a652b180269a22a3",
+        "kode": "20061402",
+        "nama": "Baring",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "11d8f11bbd2941a68beedf3fe30874e6",
+        "kode": "20060403",
+        "nama": "Batara",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1915d7aea6e449eeac3cd2a2f58e4c85",
+        "kode": "20060602",
+        "nama": "Bawasalo",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "87aa038d0b7f45d5b0de4c93dd87663b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d7fbe1429f8b41fd96f448939afc2a6d",
+        "kode": "20060705",
+        "nama": "Benteng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "8289a37f3bc7429c9492cb794be9be09",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "13A654377E86F838E053141D0B0ADD87",
+        "kode": "20061411",
+        "nama": "BENTENG",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(868986000000)/",
+        "validsampai": "/Date(1643021710000)/"
+    },
+    {
+        "wilayahid": "07d3a1e290a0483e99e77af36b608639",
+        "kode": "20060203",
+        "nama": "Biraeng",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1097A5D7BBF912BFE053141D0B0A69D6",
+        "kode": "20060132",
+        "nama": "BIRAENG (MATI)",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1701307759000)/"
+    },
+    {
+        "wilayahid": "4e8f3cb4caf34ae680668c96d2f2d81d",
+        "kode": "20060309",
+        "nama": "Biringere",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8b43932255ac4990ade18dcdf007d08f",
+        "kode": "20060704",
+        "nama": "Boddie",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "8289a37f3bc7429c9492cb794be9be09",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "081DB23586A55C1FE063B416140A19A5",
+        "kode": "20061414",
+        "nama": "Boddie",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(1697769348000)/",
+        "validsampai": "/Date(1697769364000)/"
+    },
+    {
+        "wilayahid": "fee8b6b1d31440658429794c8d776c41",
+        "kode": "20060604",
+        "nama": "Bone",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "87aa038d0b7f45d5b0de4c93dd87663b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "849978ad6cf04738a27aec5796ded790",
+        "kode": "20061405",
+        "nama": "Bone",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1675158792000)/"
+    },
+    {
+        "wilayahid": "fba0b9ced47e451987311a1e778c2169",
+        "kode": "20061202",
+        "nama": "Bonto Birao",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "31bf2c59f5c84c0895a136368d969e43",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b3b47a0056804b519214e733fe2e9afd",
+        "kode": "20060125",
+        "nama": "Bonto Langkasa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1649403038000)/"
+    },
+    {
+        "wilayahid": "3f54444cc9f34b62b1bbaa9687b2670f",
+        "kode": "20060410",
+        "nama": "Bonto Manai",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6b3dd7f085184d6cbed841ef1158dec8",
+        "kode": "20061404",
+        "nama": "bonto matene",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1356886800000)/"
+    },
+    {
+        "wilayahid": "f285eb71695b460f8c5e314623fbe558",
+        "kode": "20060603",
+        "nama": "Bonto Matene",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "87aa038d0b7f45d5b0de4c93dd87663b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "84b23a5543d24dc2a6b1e2af5772296e",
+        "kode": "20060105",
+        "nama": "Bonto Perak",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "12611a0048364bc7a9629444ceabed80",
+        "kode": "20060131",
+        "nama": "Bontoa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1364835600000)/"
+    },
+    {
+        "wilayahid": "c7c69444abff4ae1ac226bf4690ec17c",
+        "kode": "20060208",
+        "nama": "Bontoa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7129ae8876564da39b80c94c5ef61060",
+        "kode": "20060501",
+        "nama": "Bonto-bonto",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "feed23e097c3408f93827b6fd3bcacd9",
+        "kode": "20060110",
+        "nama": "Bontokio",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1650264000000)/"
+    },
+    {
+        "wilayahid": "1c6db08e864e4c0094e9d30816db0dbc",
+        "kode": "20060204",
+        "nama": "Bontokio",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e62d15a249494dc1a28a69a36dd523d6",
+        "kode": "20060206",
+        "nama": "Bontolangkasa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ADBFE30B09B58F93E0530B1D140A78CF",
+        "kode": "20060511",
+        "nama": "Bontomarana",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1697793045000)/"
+    },
+    {
+        "wilayahid": "e76efa66fba7491ba086efd1a7190f7b",
+        "kode": "20060301",
+        "nama": "Bori appaka",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "288d31463825492ca8a5bdf2bf92fc78",
+        "kode": "20060413",
+        "nama": "Borimasunggu",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c7559d19ed024912b372f4f27c2219a9",
+        "kode": "20060302",
+        "nama": "Bowong Cindea",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f7c012b1269843bd80e9ffa69d9ecee3",
+        "kode": "20060308",
+        "nama": "Bulu cindea",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D959B231F89B2EE1E043031D0B0A4397",
+        "kode": "20061206",
+        "nama": "Bulu tellue",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "31bf2c59f5c84c0895a136368d969e43",
+        "validsejak": "/Date(1325264400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e77bd9fa35cd45e4980d5bffc014a5f1",
+        "kode": "20060306",
+        "nama": "Bulu Tellue",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1325264400000)/"
+    },
+    {
+        "wilayahid": "7952f5159d184828bcead80936f279b4",
+        "kode": "20060706",
+        "nama": "Coppo Tompong",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "8289a37f3bc7429c9492cb794be9be09",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "39aa5ea88f35439d95d7b4d5b2429d49",
+        "kode": "20061103",
+        "nama": "Dewakang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "e3cfdadc5948425ba5bb0daf8305d931",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c3700cd855884b369f7d3a2352e89a4c",
+        "kode": "20061104",
+        "nama": "Doang-doangan Lompo",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "e3cfdadc5948425ba5bb0daf8305d931",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b6d3b60a9d6e4ddfbb53ebb931f79da6",
+        "kode": "20060407",
+        "nama": "Gentung",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "24228c2345384128b05ad9a348e3b6f4",
+        "kode": "20060101",
+        "nama": "Jagong",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3c8d4449c4964c158662655c9af8491e",
+        "kode": "20060122",
+        "nama": "JAGONG (mati)",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "a95f49459ac34060ad7a4fe6eff192be",
+        "kode": "20060120",
+        "nama": "kabba",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1650954921000)/"
+    },
+    {
+        "wilayahid": "88434c5ef51d44f182e3bccbef7ee964",
+        "kode": "20060205",
+        "nama": "Kabba",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "B28F3C1CB6BEBF31E0530C1D140AE893",
+        "kode": "20060414",
+        "nama": "Kabirisi",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-292575600000)/",
+        "validsampai": "/Date(1643021405000)/"
+    },
+    {
+        "wilayahid": "376886eea9714eb7804316ef6fe31bd6",
+        "kode": "20060201",
+        "nama": "Kalabbirang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "22825BBDCE9BAE2EE053021D0B0AA803",
+        "kode": "20060134",
+        "nama": "KALABBIRANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(951584400000)/",
+        "validsampai": "/Date(1650264029000)/"
+    },
+    {
+        "wilayahid": "15a0e7be586b4f27b375143afd624266",
+        "kode": "20061101",
+        "nama": "Kalu-kalukuang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "e3cfdadc5948425ba5bb0daf8305d931",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7cbb2e71bf4b403a81bcc6c7b4dd6785",
+        "kode": "20060411",
+        "nama": "Kanaungan",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7e7450ba6a2f4c70ab1379c56dfcd3fb",
+        "kode": "20061105",
+        "nama": "Kanyurang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "e3cfdadc5948425ba5bb0daf8305d931",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0d55181465854f3d9e4bef33d879c613",
+        "kode": "20061004",
+        "nama": "Kapoposang Bali",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ab604cc6410b455ea850020d19baf038",
+        "kode": "20060801",
+        "nama": "Kassi",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "b13882820918473f94eb757c4eb35127",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "055e0eedd3f04c9493bc9be41b7be23e",
+        "kode": "20060409",
+        "nama": "Kassi Loe",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "60d7b090ff8444e1ae54a31e5f783f86",
+        "kode": "20060405",
+        "nama": "Labbakkang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "37b36144ad2a48a0a6831d7dacf6db03",
+        "kode": "20061203",
+        "nama": "Lanne",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "31bf2c59f5c84c0895a136368d969e43",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1698c66cf24a49688a4f2437ab6fe552",
+        "kode": "20061205",
+        "nama": "Malaka",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "31bf2c59f5c84c0895a136368d969e43",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1bc8e397b281412d81a207f9a1e3f13f",
+        "kode": "20060406",
+        "nama": "Manakku",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "35c61ff893e945b3afb45d7b3a6f73b2",
+        "kode": "20060701",
+        "nama": "Mandalle",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "8289a37f3bc7429c9492cb794be9be09",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "E59F6BA4EAF98875E043031D0B0ADA7A",
+        "kode": "20061409",
+        "nama": "Mandalle",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(-765961200000)/",
+        "validsampai": "/Date(1650954774000)/"
+    },
+    {
+        "wilayahid": "43efdeeddd674306a32cc1c68911c075",
+        "kode": "20060402",
+        "nama": "Mangallekana",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ac8569273c784843967347eb93431145",
+        "kode": "20060703",
+        "nama": "Manggalung",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "8289a37f3bc7429c9492cb794be9be09",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1097A5D7BC8112BFE053141D0B0A69D6",
+        "kode": "20061410",
+        "nama": "Manggalung",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1643021706000)/"
+    },
+    {
+        "wilayahid": "589c4b2cb3e643eb9935b06e1f6a730f",
+        "kode": "20060305",
+        "nama": "Mangilu",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b522bd47a2f5424e988cb89f2b913f78",
+        "kode": "20060102",
+        "nama": "Mappasaile",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7c221957db3248e88230882a5e801523",
+        "kode": "20060503",
+        "nama": "Marang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7cf687037bc64aa3b57ad4c15b9dabf1",
+        "kode": "20061102",
+        "nama": "Marasende",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "e3cfdadc5948425ba5bb0daf8305d931",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "91c58cd093f047fcbacda17bb10cbb54",
+        "kode": "20060310",
+        "nama": "Mattampa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1675154379000)/"
+    },
+    {
+        "wilayahid": "e982a2236fe840f8a522f83829d0f6a9",
+        "kode": "20060914",
+        "nama": "Mattaro Adae",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fa840aa43daf46f5a93a42e07b6a9969",
+        "kode": "20060909",
+        "nama": "Mattiro Baji",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1360688400000)/"
+    },
+    {
+        "wilayahid": "D948F4F1B181A4E1E043021D0B0ABDE1",
+        "kode": "20061301",
+        "nama": "Mattiro Baji",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "D948770613BF2318E043021D0B0AFE7A",
+        "validsejak": "/Date(1360688400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D95E182D03F86C65E043021D0B0A3017",
+        "kode": "20060915",
+        "nama": "Mattiro Bintang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(1356973200000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9009df0bf7ff493d9e9df7238c37e6db",
+        "kode": "20060904",
+        "nama": "Mattiro Bombang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D95E5E7887FE44D1E043031D0B0AB3C5",
+        "kode": "20061304",
+        "nama": "Mattiro Bombang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "D948770613BF2318E043021D0B0AFE7A",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "92aa8e8195504fadbd7c90590156b1a5",
+        "kode": "20060908",
+        "nama": "Mattiro Bone",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5c8b90a19efe4692a86d5a11160f36d8",
+        "kode": "20060911",
+        "nama": "Mattiro Bulu",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1650954902000)/"
+    },
+    {
+        "wilayahid": "D95E7216679244CFE043031D0B0A3F1B",
+        "kode": "20061303",
+        "nama": "Mattiro Bulu",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "D948770613BF2318E043021D0B0AFE7A",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ce0a1ac49e394c4e8b01456fbe6cc17a",
+        "kode": "20060902",
+        "nama": "Mattiro Deceng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D95E1852DE876C63E043021D0B0A2CCE",
+        "kode": "20060916",
+        "nama": "Mattiro Dolangeng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(1356973200000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2563d53f18d64d2d993616ba1775c21d",
+        "kode": "20060910",
+        "nama": "Mattiro Kanja",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1628047148000)/"
+    },
+    {
+        "wilayahid": "D95E5E7887B244D1E043031D0B0AB3C5",
+        "kode": "20061302",
+        "nama": "Mattiro Kanja",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "D948770613BF2318E043021D0B0AFE7A",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "73ad43cdf1dd4dd7b7e5e3c437603060",
+        "kode": "20060906",
+        "nama": "Mattiro Labangeng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1356886800000)/"
+    },
+    {
+        "wilayahid": "D95E7216680D44CFE043031D0B0A3F1B",
+        "kode": "20061305",
+        "nama": "Mattiro Labangeng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "D948770613BF2318E043021D0B0AFE7A",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ce5daa5685ea492294284697015d3443",
+        "kode": "20060907",
+        "nama": "Mattiro Langi",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "167f8dfc771f4002b195eb01a4793e62",
+        "kode": "20060913",
+        "nama": "Mattiro Matae",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2eadad48fa3547099b031a08fa77403e",
+        "kode": "20060901",
+        "nama": "Mattiro Sompe",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b07a545c692f4204a6ed8dd76cabbd92",
+        "kode": "20060912",
+        "nama": "Mattiro Ujung",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "498fa0bb221346309bb4d5a36644fe41",
+        "kode": "20060905",
+        "nama": "Mattiro Uleng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1645688626000)/"
+    },
+    {
+        "wilayahid": "D95E5E78883D44D1E043031D0B0AB3C5",
+        "kode": "20061306",
+        "nama": "Mattiro Uleng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "D948770613BF2318E043021D0B0AFE7A",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D95E5E78887D44D1E043031D0B0AB3C5",
+        "kode": "20061307",
+        "nama": "Mattiro Walie",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "D948770613BF2318E043021D0B0AFE7A",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8e112f44c6f342308ee8ed8aaf8e8915",
+        "kode": "20060903",
+        "nama": "Mattiro Walie (Pindah Kecamatan)",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "d31d67bc197248d89458f511ab69c733",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1356886800000)/"
+    },
+    {
+        "wilayahid": "39acb33647814a42b2bf43694b67cd07",
+        "kode": "20060202",
+        "nama": "Minasa Tene",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d24707f0290a482aa97a9bf1ad3a1e64",
+        "kode": "20060130",
+        "nama": "Minasatene",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1685342502000)/"
+    },
+    {
+        "wilayahid": "67e0fe1453484145af918cecf34e4992",
+        "kode": "20060104",
+        "nama": "Pabundukang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a62c211f841f496eb268ccd2098028de",
+        "kode": "20060509",
+        "nama": "Padang lampe",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5fbc2768e28f4176b6eb31f458152eb6",
+        "kode": "20060109",
+        "nama": "Padoang-doangan",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fd0a4e4280634cc89e34ac8317a3e380",
+        "kode": "20061106",
+        "nama": "Pammas",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "e3cfdadc5948425ba5bb0daf8305d931",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "17BBEF22A9291800E053131D0B0AE507",
+        "kode": "20060133",
+        "nama": "Panaikang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(747421200000)/",
+        "validsampai": "/Date(747421200000)/"
+    },
+    {
+        "wilayahid": "2cac6c1e3c8f41f782d09095a0bf3d2d",
+        "kode": "20060207",
+        "nama": "Panaikang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "1b2b7ef827764c6b96ea800ba7ccf1e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6bb29d3ea0e748fcbcf6630cca9118ad",
+        "kode": "20060606",
+        "nama": "Parenreng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "87aa038d0b7f45d5b0de4c93dd87663b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D32D0F05B2E2BE83E0530C1D140A330A",
+        "kode": "20061413",
+        "nama": "Parenreng",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(1639561159000)/",
+        "validsampai": "/Date(1643021729000)/"
+    },
+    {
+        "wilayahid": "5ebc68c8d4b748fbb92d8e8ddfc9f7ef",
+        "kode": "20060404",
+        "nama": "Pattalassang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c625979174024db4b100aa1c4b07ad7d",
+        "kode": "20060505",
+        "nama": "Pitue",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "217a0513f66149c1911a2f2f4ace7e4a",
+        "kode": "20060504",
+        "nama": "Pitusunggu",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D95E1863193E6D59E043021D0B0A3B34",
+        "kode": "20061009",
+        "nama": "Poleonro",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "36991731a1254a2aa8a7419d8c99b9e0",
+        "kode": "20060401",
+        "nama": "Pundata Baji",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a61eef8e10924c26b5a2e6b30332ea3d",
+        "kode": "20060507",
+        "nama": "Punranga",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D95E1863191F6D59E043021D0B0A3B34",
+        "kode": "20061008",
+        "nama": "Sabalana",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(1356886800000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "D95E18AF24D6F880E043031D0B0A6F10",
+        "kode": "20061006",
+        "nama": "Sabaru",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(1325264400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "104182c1f6fc4c75944ff55114400db9",
+        "kode": "20061107",
+        "nama": "Sabaru",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "e3cfdadc5948425ba5bb0daf8305d931",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0034357c89d7429282d98248056fd3ca",
+        "kode": "20061002",
+        "nama": "Sailus",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6565261653fa43c49c243921ccc4d82a",
+        "kode": "20060303",
+        "nama": "Samalewa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b51db79fafd543b0b557e33764fc374a",
+        "kode": "20060304",
+        "nama": "Sapanang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6c7a6d8f7f7e492f952ee2f67676b9c1",
+        "kode": "20061001",
+        "nama": "Sapuka",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "117e9647eae74d71a2b2c36058231ee5",
+        "kode": "20061003",
+        "nama": "Satanger",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3da7e38eb4674ffda23e8199d2c59701",
+        "kode": "20060601",
+        "nama": "Segeri",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "87aa038d0b7f45d5b0de4c93dd87663b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ff75ba73a44940e89cc652f0ae4974c7",
+        "kode": "20061401",
+        "nama": "Segeri",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1661229358000)/"
+    },
+    {
+        "wilayahid": "421c2c1d22d54b8aba44d5d2b7dd92d5",
+        "kode": "20060106",
+        "nama": "Sibatua",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9D0ACB13E7F6AA26E0530B1D140AD2CF",
+        "kode": "20061412",
+        "nama": "Soreang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "D22283A42E060A2AE0530B1D140A3D2D",
+        "kode": "20060135",
+        "nama": "SOREANG CINDEA",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(1638416267000)/",
+        "validsampai": "/Date(1643773630000)/"
+    },
+    {
+        "wilayahid": "03e0128b52284e829189f28839855e33",
+        "kode": "20060307",
+        "nama": "Tabo-Tabo",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "bf41f22db48845bf9293a1516fb18ba1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "188062da11ab4cc18f3008f8011fcccb",
+        "kode": "20060502",
+        "nama": "Talaka",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e1f9e8e1b9ea4db79dffcbc3cbff748a",
+        "kode": "20060506",
+        "nama": "Tamangapa",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "599f4ce50c7645c286a320b38cef5ebe",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c7dc0f5d066f4e14aaf1cd2ffdaa4882",
+        "kode": "20060702",
+        "nama": "Tamarupa",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "8289a37f3bc7429c9492cb794be9be09",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "67ef51c9680f4898beed359a43c0c4ad",
+        "kode": "20061403",
+        "nama": "TAMARUPA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "21eac391246f4edbbacc203c2de90f9c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1700191573000)/"
+    },
+    {
+        "wilayahid": "b61faf1fc3a446c3a0ca8dae3c81c4a7",
+        "kode": "20061005",
+        "nama": "Tampaang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "fbfb528f719d4c7794058afe7ade8d25",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a3daac16553e4df9ad04228d1bde23df",
+        "kode": "20060408",
+        "nama": "Taraweang",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f2ef44bac846423390c109852216ec6d",
+        "kode": "20060107",
+        "nama": "Tekolabbua",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "287a57765246417d8c1f1f1ec8656245",
+        "kode": "20060805",
+        "nama": "Tompo Bulu",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "b13882820918473f94eb757c4eb35127",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "44e708d31e6048e998768cc98f050fd2",
+        "kode": "20060415",
+        "nama": "Tonasa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "298d2b0d7f27498eb9260b59fd1b590e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(1700808222000)/"
+    },
+    {
+        "wilayahid": "3a070e8364cc442a8a3cd235b265c3a2",
+        "kode": "20060802",
+        "nama": "Tonasa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "b13882820918473f94eb757c4eb35127",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c8763e242bbe421b903eed12b6ea340c",
+        "kode": "20061201",
+        "nama": "Tondong Kura",
+        "tipewilayahid": 6,
+        "tipe": null,
+        "induk": "31bf2c59f5c84c0895a136368d969e43",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "52c856dc7f97484eb03ac2c668fdb7eb",
+        "kode": "20060108",
+        "nama": "Tumampua",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4b80b108d13646a58af9158a6813b7cb",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

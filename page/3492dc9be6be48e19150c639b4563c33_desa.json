@@ -1,0 +1,3262 @@
+[
+    {
+        "wilayahid": "9fc6ce0fad6847afb0166675d617a29d",
+        "kode": "03010503",
+        "nama": "Aie Pacah",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "691017201b0d4d5f90e1f4ed7b2fe417",
+        "kode": "03015423",
+        "nama": "AIR CAMAR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "feb427c7d371482e9ea5527a33d7d6c1",
+        "kode": "03015504",
+        "nama": "AIR DINGIN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a983f7525b1f4fb98f9ead2d39c6ace9",
+        "kode": "03010211",
+        "nama": "Air Manis",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dba45e15c8cb429ea283a75c60bd9315",
+        "kode": "03015222",
+        "nama": "AIR MANIS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "864313cbe5f645e4bd30d021e3af8f06",
+        "kode": "03015502",
+        "nama": "AIR PACAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fbd01d05af164f8399760e5a5aa27f40",
+        "kode": "03010102",
+        "nama": "Air Tawar Barat",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "91a4583501b044ad9800eb826c28365d",
+        "kode": "03015102",
+        "nama": "AIR TAWAR BARAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "564c10be8eb84ceb82bbb0ed57c6db48",
+        "kode": "03015104",
+        "nama": "AIR TAWAR SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fc370fd5f48c4da5871cc235c329a5f6",
+        "kode": "03010101",
+        "nama": "Air Tawar Timur",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ed64780efb264ae19ea304f4cffcc654",
+        "kode": "03015101",
+        "nama": "AIR TAWAR TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "59957464a34b4de1a0b47eb1bda7a41d",
+        "kode": "03010106",
+        "nama": "Alai Parak Kopi",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4a9a494a5305474a96180fc99c044f87",
+        "kode": "03015114",
+        "nama": "ALAI TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5983bb970cf84adf8a5a39a82fb5270b",
+        "kode": "03015202",
+        "nama": "ALANG LAWAS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7824a639aea94876b923a7053ec565eb",
+        "kode": "03015203",
+        "nama": "ALANG LAWAS KOTO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2b94fa13df1342cba94aabc546858fd6",
+        "kode": "03010202",
+        "nama": "Alang Laweh",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "333cbc08c12a417f86a0292a2812d91d",
+        "kode": "03015617",
+        "nama": "AMPALU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "647e8d4fe1014deb92dc1491070e6c37",
+        "kode": "03010704",
+        "nama": "Ampang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0b3c924fe33e4c7282c09731db6a1936",
+        "kode": "03016004",
+        "nama": "AMPANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "edba8bb6e7564915a06b79e15b18b3d1",
+        "kode": "03015523",
+        "nama": "ANAK AIR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "74e7d83b956f4947a74284d4cc149845",
+        "kode": "03010307",
+        "nama": "Andalas",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b0b0ea57427b4b61b2c1661881a45c55",
+        "kode": "03015418",
+        "nama": "ANDALAS BARAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c112312d94a944cc9b4d18540292de43",
+        "kode": "03015419",
+        "nama": "ANDALAS TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b12fb2c84988440ca0fab79f87f2f1bc",
+        "kode": "03010702",
+        "nama": "Anduring",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8abecd7afdd74e2db61db3f70f9dc0dc",
+        "kode": "03016002",
+        "nama": "ANDURING",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d2917fb23088469cac57f6edee7b215f",
+        "kode": "03015422",
+        "nama": "AUR DURI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "17fbc20c9f50457eabc11e0fa48ff9bd",
+        "kode": "03015317",
+        "nama": "BALAI BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a3d266b09c304a6aae467ed5e083fa3f",
+        "kode": "03010501",
+        "nama": "Balai Gadang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b311f734673240d49a7c81727777b84f",
+        "kode": "03010904",
+        "nama": "Banda Buek",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "868a093ce8f44525ad51562eeaa6f89b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "23db1b23e60e4e609cba7554937fa2ff",
+        "kode": "03016106",
+        "nama": "BANDAR BUAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c65c713383184487a5a39862cc578aa0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0232014d77954814b2167b89951b5fc1",
+        "kode": "03015311",
+        "nama": "BANDAR PURUS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "953530993a7c4c0da24bb4c10fcb164f",
+        "kode": "03015611",
+        "nama": "BANUARAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "30dc4f88414040aea2229a02a7918d06",
+        "kode": "03011009",
+        "nama": "Banuaran Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a070f40443124c20942e5ed5a9f8528d",
+        "kode": "03010906",
+        "nama": "Baringin",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "868a093ce8f44525ad51562eeaa6f89b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1698522b90cd49268b3ab3f06f2f6dbc",
+        "kode": "03016102",
+        "nama": "BARINGIN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c65c713383184487a5a39862cc578aa0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "02be0d0a1b0e474186c02bb813e64b25",
+        "kode": "03010205",
+        "nama": "Batang Arau",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7319b259d74e47409d504c0ce9258431",
+        "kode": "03015205",
+        "nama": "BATANG ARAU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "96ca1a7c0fe44ac594c64aa1599ff938",
+        "kode": "03015511",
+        "nama": "BATANG KABUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f98118f9bc8a4c44b74c7db0625bcdb7",
+        "kode": "03010510",
+        "nama": "Batang Kabung Ganting",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "80f9a44ff51b4d229e0cc40c4a6289d5",
+        "kode": "03010507",
+        "nama": "Batipuh Panjang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ac08171d4dd34581a1437fb09c1b6040",
+        "kode": "03010903",
+        "nama": "Batu Gadang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "868a093ce8f44525ad51562eeaa6f89b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8b5156da2a6749798b9233d6c0e45178",
+        "kode": "03016103",
+        "nama": "BATU GADANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c65c713383184487a5a39862cc578aa0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9bc36c14abba41649453987bc703e50b",
+        "kode": "03011011",
+        "nama": "Batuang Taba Kampung Jua Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8ccb255beea6480aa9c0efe26c2d5612",
+        "kode": "03015709",
+        "nama": "BATUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5495053CB55716A9E053141D0B0A3D76",
+        "kode": "03011015",
+        "nama": "Batung Taba Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(1229619600000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "00190740b6e346f089abede113d182fd",
+        "kode": "03015614",
+        "nama": "BATUNG TEBAL",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "62a4259ac58c4133bab434e1aed1e497",
+        "kode": "03015316",
+        "nama": "BELAKANG OLO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "07d1b3faca80450a9121515e3c5b1618",
+        "kode": "03010201",
+        "nama": "Belakang Pondok",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e7f36d06c2d143c7bba0200a8cd2bc62",
+        "kode": "03015223",
+        "nama": "BELAKANG PONDOK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "23d851a5a0c84ae79cdf2139f5d0ac73",
+        "kode": "03010408",
+        "nama": "Belakang Tangsi",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0d0c1fee5a504b66b5a29517273ccf06",
+        "kode": "03015321",
+        "nama": "BELAKANG TANGSI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "30f46aa5748b483aaf17fdb6fc74aed8",
+        "kode": "03015112",
+        "nama": "BELANTI BARAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e6f57a239d284f68b173abaf34062faa",
+        "kode": "03015110",
+        "nama": "BELANTI TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "95bdd90c5ec34bddb84bd45db9b3b344",
+        "kode": "03015514",
+        "nama": "BERINGIN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c1b56ea5458c46a3aafdfe673a1459e4",
+        "kode": "03015324",
+        "nama": "BEROK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5185368c62fe423cafdf6a6f5aeeb7cd",
+        "kode": "03015118",
+        "nama": "BEROK GUNUNG PANGILUN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "eca4c219b255466993d206cbe023e45c",
+        "kode": "03010410",
+        "nama": "Berok Nipah",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dc66d284f1024720beacdd2471f63b68",
+        "kode": "03010807",
+        "nama": "Binuang Kampung Dalam",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "94b9188a892843449ab5d3dd3454a739",
+        "kode": "03015812",
+        "nama": "BINUANG KP.DALAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1a554f899ea643cba30b6e67b9fe393a",
+        "kode": "03010212",
+        "nama": "Bukit Gado-Gado",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ac0e1bac30524058b8c83f85d331beba",
+        "kode": "03015224",
+        "nama": "BUKIT GADO-GADO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "16b64bdf330d43de96e66292916508c9",
+        "kode": "03010511",
+        "nama": "Bungo Pasang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ac2d3206ee5744b08ae9920077e4f326",
+        "kode": "03015508",
+        "nama": "BUNGO PASANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0c3bd3dfa2df4c89b4bbde9d2351e62e",
+        "kode": "03011102",
+        "nama": "Bungus Barat",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "86c066bed4bc4485b8826d5dfbfc5680",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7884abb020834ac49e2f5fb5906a0147",
+        "kode": "03011103",
+        "nama": "Bungus Selatan",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "86c066bed4bc4485b8826d5dfbfc5680",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ece1aad9b7644e2eb937249cb299cd80",
+        "kode": "03011101",
+        "nama": "Bungus Timur",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "86c066bed4bc4485b8826d5dfbfc5680",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "481ea78f528e41cf8bdc70a6be9df304",
+        "kode": "03011001",
+        "nama": "Cangkeh Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "08dcdb43d26249368771ef20093c2be4",
+        "kode": "03015602",
+        "nama": "CENGKEH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7afe07b353674568868c5b00c641039d",
+        "kode": "03015708",
+        "nama": "CINDAKIR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "702dc194b65a4b878778e9881d4538cd",
+        "kode": "03010804",
+        "nama": "Cupak Tangah",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8fa6420e6c1a4081bdcfef8d626349fe",
+        "kode": "03015810",
+        "nama": "CUPAK TANGAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f6fec1bdccef49deaa63eb6c6cd10a96",
+        "kode": "03010504",
+        "nama": "Dadok Tunggul Hitam",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5e01f5f7b5a94687a496fca3227bf6b9",
+        "kode": "03015501",
+        "nama": "DADOK TUNGGUL HITAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7bab3d8238fa4a55a5bea059c7ecdb96",
+        "kode": "03015302",
+        "nama": "FLAMBOYAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "778ff93a76cb443fa9c0818a2dfbe0c3",
+        "kode": "03010401",
+        "nama": "Flamboyan Baru",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "265caf3640a24bc8896ce2a88bac5cfd",
+        "kode": "03015519",
+        "nama": "GANTING",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "133eb755b3b843d2be74a601d0c0915b",
+        "kode": "03010310",
+        "nama": "Ganting Parak Gadang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7518614620c94c338a6a764ef59fc02c",
+        "kode": "03015427",
+        "nama": "GANTING SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dea29041486c4a1f88e539133edf10dd",
+        "kode": "03015426",
+        "nama": "GANTING UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ab14685280f147759c3db2a8fd37d5c5",
+        "kode": "03011014",
+        "nama": "Gates Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5666a69eaa8b4744b2a16eefce1823dc",
+        "kode": "03015619",
+        "nama": "GAUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b9cfec4cadaa4c69a3868082aa795222",
+        "kode": "03010107",
+        "nama": "Gunung Pangilun",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f579d92f2aa54ef38613825773a00c25",
+        "kode": "03015115",
+        "nama": "GUNUNG PANGILUN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "526334cc7eba4bfca6bbf5b849d61976",
+        "kode": "03010708",
+        "nama": "Gunung Sarik",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b73b2f00329947c893ae52cbdd417b78",
+        "kode": "03016008",
+        "nama": "GUNUNG SARIK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4a3a05d4032a4d53a2d5676b3226bf5f",
+        "kode": "03015607",
+        "nama": "GURUN LAWAS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6166fdafc6f943ff8e2184c0cac1ad9a",
+        "kode": "03015906",
+        "nama": "GURUN LAWAS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "eb266b7574e644d086f47ecdedbb080c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e0c9f2ccb1ce4d70a8d1596124017346",
+        "kode": "03010604",
+        "nama": "Gurun Laweh",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d4a228bc08354c2294607b9f7788d20e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a03e265170ee40d2beb1e54af0d34a58",
+        "kode": "03011006",
+        "nama": "Gurun Laweh Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f8cd1efc694841dc8b04d9b6007d3c18",
+        "kode": "03015507",
+        "nama": "IKUR KOTO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "97b683ebd4354a8fb4ad5b5c6e885699",
+        "kode": "03015201",
+        "nama": "IMAM BONJOL",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "cd7f9ab9b1344a43a624be90d39d9687",
+        "kode": "03010901",
+        "nama": "Indarung",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "868a093ce8f44525ad51562eeaa6f89b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c8a0135a623747e9ace9305b4e9c17c0",
+        "kode": "03016104",
+        "nama": "INDARUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c65c713383184487a5a39862cc578aa0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "87bbf1b986ec48f1a4c2f8e41c83fbae",
+        "kode": "03015702",
+        "nama": "JARUAI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "17c6e72c883349d3b5ee22b938feec9f",
+        "kode": "03010303",
+        "nama": "Jati",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7d8167fb6c8f461dbe4aeedaa7e71bdd",
+        "kode": "03010302",
+        "nama": "Jati Baru",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a319eb4eab354a74b299d4f840146e42",
+        "kode": "03015409",
+        "nama": "JATI GAUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "492c0eeb50434ba1bbd53f9088b90f35",
+        "kode": "03015410",
+        "nama": "JATI RAWANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ea535a0097e8411291c68010c7c2d675",
+        "kode": "03015408",
+        "nama": "JATI SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "caafae614d7d4c9b9fb3e8b3b0276dca",
+        "kode": "03015411",
+        "nama": "JATI TANAH TINGGI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "669172c5d45742e1baea3e540cd8c187",
+        "kode": "03015407",
+        "nama": "JATI TENGAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "196e650a654d470eb2f172e54f42fc59",
+        "kode": "03015406",
+        "nama": "JATI UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7af1fe655e2743efb1a5c237731747d2",
+        "kode": "03015807",
+        "nama": "JAWA GADUT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dfcfa50d4f5146929dcfbd837d238b2f",
+        "kode": "03015214",
+        "nama": "JEMBATAN BUAI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ffc9279f24414880ba4f8228374811bb",
+        "kode": "03015330",
+        "nama": "KALI KECIL",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b38815203c6e48b7b89cd2e99e06a10b",
+        "kode": "03010705",
+        "nama": "Kalumbuk",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e6e2efa60c874ee29303b4921027c29e",
+        "kode": "03016005",
+        "nama": "KALUMBUK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b341385b37fd4e32b355b8661141414d",
+        "kode": "03011002",
+        "nama": "Kampuang Baru Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fdb3ec40224148d791793770fcd29e6d",
+        "kode": "03010216",
+        "nama": "Kampung Air Manis",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b669cf6ee1294c70b61e7bb311685478",
+        "kode": "03010414",
+        "nama": "Kampung Alai Gunung Pangilun",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c22beb8e4f7a40bab87cbd7b5c6a6674",
+        "kode": "03010215",
+        "nama": "Kampung Alang Lawas",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e4ce13e1298044b5918e4d2d5514b6e3",
+        "kode": "03010313",
+        "nama": "Kampung Andalas Marapalam",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ed9c0ad5a2e0476da92f9cbaba4c1e05",
+        "kode": "03015320",
+        "nama": "KAMPUNG BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "016843e0ab5b4273a8374cb2c5e66b2a",
+        "kode": "03015601",
+        "nama": "KAMPUNG BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7af604d588234120a3c4f0729d8bcb11",
+        "kode": "03015904",
+        "nama": "KAMPUNG BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "eb266b7574e644d086f47ecdedbb080c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "966e7ce2c62141e58b976d14d5912580",
+        "kode": "03010411",
+        "nama": "Kampung Belakang Tangsi",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9d2946b20ac64bbfa7a0cab64aca4d00",
+        "kode": "03010413",
+        "nama": "Kampung Djawa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "64c9f23890ed4909b0436b47fc54ffb1",
+        "kode": "03015325",
+        "nama": "KAMPUNG DOBI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c4e309ae4cfc45aa88b68c6774522ae0",
+        "kode": "03015421",
+        "nama": "KAMPUNG DURIAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "14f4a583498a496db77fc69d63256688",
+        "kode": "03015518",
+        "nama": "KAMPUNG JAMBAK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "27f4896b016042bcb3b504a5e80b427d",
+        "kode": "03010407",
+        "nama": "Kampung Jawa",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3570ad5b698e4b9c88772df3999bd6c9",
+        "kode": "03015318",
+        "nama": "KAMPUNG JAWA DALAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a975159694eb4fcea98a32bcb45439eb",
+        "kode": "03015615",
+        "nama": "KAMPUNG JUA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "54900F880EB67AE3E053021D0B0A84B6",
+        "kode": "03011016",
+        "nama": "Kampung Jua Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(1229619600000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9237b6ce046d44938f2d5fda49c0d8fb",
+        "kode": "03010606",
+        "nama": "Kampung Lapai",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d4a228bc08354c2294607b9f7788d20e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "721dc835fa9d42b6aefdf7c0dcaf614d",
+        "kode": "03015903",
+        "nama": "KAMPUNG LAPAI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "eb266b7574e644d086f47ecdedbb080c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "27b1397ecb174e3da9d8fc74aab3c715",
+        "kode": "03010602",
+        "nama": "Kampung Olo",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d4a228bc08354c2294607b9f7788d20e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1a4099dd9bda4ddd9da336fbc0551108",
+        "kode": "03015905",
+        "nama": "KAMPUNG OLO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "eb266b7574e644d086f47ecdedbb080c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d9209016e50e4df29535c4a1486bc9c8",
+        "kode": "03010312",
+        "nama": "Kampung Parak Gadang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6b3a2d97554a4c22a15cb89798d872e4",
+        "kode": "03010214",
+        "nama": "Kampung Pasar Gedang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "02e6bd2ca2404d49a6b9a5afe2d12989",
+        "kode": "03015704",
+        "nama": "KAMPUNG PINANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dcd318ec81c3423c83e22239b138eec0",
+        "kode": "03010409",
+        "nama": "Kampung Pondok",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6a37a837cbcf4dab98ecaca9df28d620",
+        "kode": "03010412",
+        "nama": "Kampung Pondok 2",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "031d7561ca294d41b5fbf04cb974f6f1",
+        "kode": "03010311",
+        "nama": "Kampung Sawahan",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9473b958b50643e28471f8343a17b1d1",
+        "kode": "03010213",
+        "nama": "Kampung Seberang Padang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "595ff3e435cf4b84b4991e9feda3229b",
+        "kode": "03010108",
+        "nama": "Kampung Ulak Karang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c03559846b4e4734b13bed925d1f76ce",
+        "kode": "03010808",
+        "nama": "Kapalo Koto",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "33d3555931e9435789b645253f7480ce",
+        "kode": "03015703",
+        "nama": "KAYU ARO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d6a7f761ec3e4a3eb43861e666f1b04a",
+        "kode": "03015809",
+        "nama": "KEPALA KOTO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "046cf7ff6d7c44ba829daf6959209551",
+        "kode": "03015201",
+        "nama": "kepalo koto",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "2b71a4d9573b46cd82f4dda71736cf3d",
+        "kode": "03015215",
+        "nama": "KEPALO KOTO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8daa9e6abf5b4a2894a8da519ece6a48",
+        "kode": "03010706",
+        "nama": "Korong Gadang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0e55aa8fb60b49c391ef4521f1fee58b",
+        "kode": "03016006",
+        "nama": "KORONG GADANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8998847e30794e9698257dc556319afd",
+        "kode": "03010706",
+        "nama": "Korong Gadang 2",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "7fc3a68e91074163a6308d02da3e4970",
+        "kode": "03015711",
+        "nama": "KOTO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "14ad019bee7e4c52bc68ee92ea2dc72f",
+        "kode": "03015610",
+        "nama": "KOTO BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e0095d26777c48ffaf50e99dd9052067",
+        "kode": "03015801",
+        "nama": "KOTO BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5798bfbda4c44b18a47eda4134034b6e",
+        "kode": "03011008",
+        "nama": "Koto Baru Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ba3c6a0b8129410893a5e1eeac0d716a",
+        "kode": "03015705",
+        "nama": "KOTO GADANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "676cac43b7fc44aeb83970931f82c8bd",
+        "kode": "03010905",
+        "nama": "Koto Lalang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "868a093ce8f44525ad51562eeaa6f89b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "59a4fb74990d4ddeab9fdb2bb796dd5e",
+        "kode": "03016107",
+        "nama": "KOTO LALANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c65c713383184487a5a39862cc578aa0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "13294960435e41c28a231a47405fb023",
+        "kode": "03010802",
+        "nama": "Koto Lua",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7899d19cf728494ab04b245317c038ef",
+        "kode": "03015806",
+        "nama": "KOTO LUAR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "07dd1d7bef5a47fbb101675ce754d206",
+        "kode": "03015315",
+        "nama": "KOTO MARAPAK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "166e91a0ba5e4ec7a30b084a26fbf286",
+        "kode": "03015506",
+        "nama": "KOTO PANJANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "be42eb2c98f44c7ca132360245dfd0f1",
+        "kode": "03015803",
+        "nama": "KOTO PANJANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d19d4a20041f4be9986afa192a3a3fd9",
+        "kode": "03010505",
+        "nama": "Koto Panjang Ikua Koto",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "43b9f978caa443e2bad6be2eb4a6bc98",
+        "kode": "03010506",
+        "nama": "Koto Pulai",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "806da0aae26b4c9cb5647c1523e90487",
+        "kode": "03015513",
+        "nama": "KOTO TUO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b03ba45f831a4e20b8238a554236ae22",
+        "kode": "03015414",
+        "nama": "KUBU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7ab607ff84074a62899ef1b81b45ba4f",
+        "kode": "03015415",
+        "nama": "KUBU DALAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "10ea470dd9814fecb553c6926c1a1a4b",
+        "kode": "03010308",
+        "nama": "Kubu Dalam Parak Karakah",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d57d85948e224a7585a63ad6f38888b4",
+        "kode": "03010306",
+        "nama": "Kubu Marapalam",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a615fb9cee554dc0b16ee5b5c35df16a",
+        "kode": "03010707",
+        "nama": "Kuranji",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "35b060ba2c0746fdb7886f216a9744cf",
+        "kode": "03016007",
+        "nama": "KURANJI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "77a8200b647b4285b3cde759d71ec342",
+        "kode": "03010603",
+        "nama": "Kurao Pagang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d4a228bc08354c2294607b9f7788d20e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "668d5c6ea4654160a9d096cbf81b8fb8",
+        "kode": "03015902",
+        "nama": "KURAO PAGANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "eb266b7574e644d086f47ecdedbb080c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "674c61dbde4449c592ea1b30ec305404",
+        "kode": "03015701",
+        "nama": "LABUAH TAROK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "844f5e69b6034962b0c0ccced743cb3f",
+        "kode": "03015413",
+        "nama": "LAKUK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6d30937eefa646ca94e2ba0e4cb5134a",
+        "kode": "03010809",
+        "nama": "Lambung Bukit",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "bc020a720f424ca8b6950f5ba785a863",
+        "kode": "03015805",
+        "nama": "LAMBUNG BUKIT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e1f286f9dfad45b8b4476beed8aadbcb",
+        "kode": "03010801",
+        "nama": "Limau Manis",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9de48325fc3b4888b163a301818e6278",
+        "kode": "03015804",
+        "nama": "LIMAU MANIS ATAS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "903863447c0d4b1189c618d9b3aa8a89",
+        "kode": "03015808",
+        "nama": "LIMAU MANIS BARUH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dbd173b5da354a3399e507c37577a144",
+        "kode": "03010803",
+        "nama": "Limau Manis Selatan",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2aa9d2780a3142f48a2d5751890f8fce",
+        "kode": "03015111",
+        "nama": "LOLONG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "81591c0ea9c14f6db421f0cd14766840",
+        "kode": "03010105",
+        "nama": "Lolong Belanti",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "90bcfe4fa46046219d4c1a746d698637",
+        "kode": "03015608",
+        "nama": "LUBUK BEGALUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "55547d52cecb4e6394824458c5c5cffc",
+        "kode": "03011005",
+        "nama": "Lubuk Begalung Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "974fc4403149465ca9759449b634c50b",
+        "kode": "03010509",
+        "nama": "Lubuk Buaya",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3ac75daf582d4b288875d04f5105ab97",
+        "kode": "03015522",
+        "nama": "LUBUK BUAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "90c0befa092a464b9cb659265e6b9415",
+        "kode": "03010703",
+        "nama": "Lubuk Lintah",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "bfffcd169e134054b74e583632458276",
+        "kode": "03016003",
+        "nama": "LUBUK LINTAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3763d240e87246bcbf1d76357c28c635",
+        "kode": "03010502",
+        "nama": "Lubuk Minturun",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "930f115b6624435789ee7aad5c4ebdf6",
+        "kode": "03015505",
+        "nama": "LUBUK MINTURUN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1ae889a5f8314d93bc236fa37d9d5d5b",
+        "kode": "03015416",
+        "nama": "MARAPALAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "283b13c8339449878d82f0e977381802",
+        "kode": "03010208",
+        "nama": "Mata Air",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3ff28fc2354145ed9a58288100ca6624",
+        "kode": "03010208",
+        "nama": "Mata Air 2",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "f1bcfcc0494347898afbd4b5bc593961",
+        "kode": "03015217",
+        "nama": "MATA AIR BARAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6b2cd7dcd49d49168ed97d534f8f7b02",
+        "kode": "03015216",
+        "nama": "MATA AIR TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0A6198B8FE62C58EE053131D0B0AF177",
+        "kode": "03010515",
+        "nama": "NAGARI KOTO TANGAH PADANG PARIAMAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-2209014000000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "99d82e49f94245cdad9376e4a933a251",
+        "kode": "03011108",
+        "nama": "Negari Bungus",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "86c066bed4bc4485b8826d5dfbfc5680",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4420521c3bbf4b1789b222b5e47f41d6",
+        "kode": "03011107",
+        "nama": "Negari Bungus Teluk Kabung",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "86c066bed4bc4485b8826d5dfbfc5680",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b466afceff0b41f29ba373c5278226ab",
+        "kode": "03010514",
+        "nama": "Negari Koto Tangah",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "248f3d33fbd24659a0dae68c54e170d4",
+        "kode": "03010812",
+        "nama": "Negari Limau Manis",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d3534d61b006447282720c8290b0895b",
+        "kode": "03010908",
+        "nama": "Negari Lubuk Kilangan",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "868a093ce8f44525ad51562eeaa6f89b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "10310b4fd98f430aaab0076d9f179250",
+        "kode": "03011030",
+        "nama": "Negari Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d2d4f384967146bd98c64c33d477e311",
+        "kode": "03010607",
+        "nama": "Negari Nanggalo",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d4a228bc08354c2294607b9f7788d20e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "90ded11df50443ff8e58710b6ec90730",
+        "kode": "03010810",
+        "nama": "Negari Pauh",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d6eebbac9f434f6a8fc67cbd602d0e15",
+        "kode": "03010811",
+        "nama": "Negari Pauh Nan IX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "64c8ef8d166f44fd8fd1336fd74ec404",
+        "kode": "03015323",
+        "nama": "NIPAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "06a4224790414fb180da5c66e3f9a0a6",
+        "kode": "03010406",
+        "nama": "Olo",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9d24c5a3ec6f4bbdb1cdc5f1a5ef7683",
+        "kode": "03015319",
+        "nama": "OLO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2629bbb5ba9a4fd6b1badab91a2f6eac",
+        "kode": "03015313",
+        "nama": "OLO LADANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "24027980989b40dfae5316c25e065bcf",
+        "kode": "03015303",
+        "nama": "PADANG BARU BARAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b5a40724f95b4d10a4e6bdd21add9a80",
+        "kode": "03015117",
+        "nama": "PADANG BARU TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "486bd918a5ff4c00bb35f530cdd0449c",
+        "kode": "03015116",
+        "nama": "PADANG BARU UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "605dc4e4f2e64a72abda68a394b61abf",
+        "kode": "03010902",
+        "nama": "Padang Besi",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "868a093ce8f44525ad51562eeaa6f89b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a303f27b1e3a4925ad702360ed77e539",
+        "kode": "03016105",
+        "nama": "PADANG BESI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c65c713383184487a5a39862cc578aa0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "36d9455609fe49ffbd10734b50b5d154",
+        "kode": "03010405",
+        "nama": "Padang Pasir",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "10e24cd2b67244ec870a565376242f68",
+        "kode": "03015309",
+        "nama": "PADANG PASIR SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "438bb86ef5de413cb10683c4af00303c",
+        "kode": "03015310",
+        "nama": "PADANG PASIR UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3dffa0352d924e84b4b540f01b31ea84",
+        "kode": "03010508",
+        "nama": "Padang Sarai",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c99ed96e66184e98876c21f321206be4",
+        "kode": "03015524",
+        "nama": "PADANG SARAI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9268ab4112934390b00f5e9bf1b94733",
+        "kode": "03011012",
+        "nama": "Pagambiran Ampalu Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5af1548c84d54f8e8818f5298c11fd3f",
+        "kode": "03011012",
+        "nama": "Pagambiran Ampalu Nan XX 2",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "076de3d599004887a9c83875fea7288a",
+        "kode": "03015208",
+        "nama": "PALINGGAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "cd7360dc4c5b4bb8bebdf6d41dfd4020",
+        "kode": "03015618",
+        "nama": "PAMPANGAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ce3ebdddf7094281a6bfce61d22cf944",
+        "kode": "03011013",
+        "nama": "Pampangan Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "feac2033b92040009343941ab80c1979",
+        "kode": "03015517",
+        "nama": "PARAK BURUK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f8d2bf8a70f143cea7adcc266c2fd89a",
+        "kode": "03015425",
+        "nama": "PARAK GADANG BARAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6434f4080f5a40518fb0a3548f22edba",
+        "kode": "03010309",
+        "nama": "Parak Gadang Timur",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "29677859cf6f4cdbac0b6556027bf4da",
+        "kode": "03015424",
+        "nama": "PARAK GADANG TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8ad5dd6993824b44afacbc63373a8e00",
+        "kode": "03015417",
+        "nama": "PARAK KARAKAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a1aeb215154b4de9b3f0fdeca5d966eb",
+        "kode": "03015328",
+        "nama": "PARAK KERAMBIL",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "63a51f379147411fb71719f5f0ad0f42",
+        "kode": "03015113",
+        "nama": "PARAK KOPI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c59a5ad5daba4fe1b2bc34de42a0798b",
+        "kode": "03015612",
+        "nama": "PARAK LAWAS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "064a5699af4b428f99f46dd32ae624e6",
+        "kode": "03011010",
+        "nama": "Parak Laweh Pulau Aie Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d7b43c19fa384658b03591e8dbe128db",
+        "kode": "03015204",
+        "nama": "PARAK RUMBIO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5a17d9abab1f498697b4dc360af8ab37",
+        "kode": "03010512",
+        "nama": "Parupuk Tabing",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "87f5ee99eec8454095d07b5e8f895288",
+        "kode": "03015509",
+        "nama": "PARUPUK TABING",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4232abe189cb4924b2cf570654af0039",
+        "kode": "03010204",
+        "nama": "Pasa Gadang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "84982f202c7e4a4b9387c58f9954b6af",
+        "kode": "03010701",
+        "nama": "Pasar Ambacang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e20d801893944190933e15cd5f3b6bb9",
+        "kode": "03016001",
+        "nama": "PASAR AMBACANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "442dce36a57b4f5b88f69e24349a32bc",
+        "kode": "03015206",
+        "nama": "PASAR GADANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d265435047364579b800d215c023fe7a",
+        "kode": "03015707",
+        "nama": "PASAR LABAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "81fbfd07f7244899a05ae54efac19a06",
+        "kode": "03015710",
+        "nama": "PASAR TELUK KABUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3b6cbb8ca6504f0ca0e75380ea56f039",
+        "kode": "03010513",
+        "nama": "Pasie Nan Tigo",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1b723bea33e1432c8c11a95edaff77f0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ee633bd3266248d9bc5d155f57ae61bc",
+        "kode": "03015521",
+        "nama": "PASIR JAMBAK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "22f8d8dfedaf40578ffb52d22e90057c",
+        "kode": "03015520",
+        "nama": "PASIR KANDANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a83a903615404aefbf590de6d62627c7",
+        "kode": "03015510",
+        "nama": "PASIR SEBELAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4d8f88f864c44ec39c82dcc47f3b45c2",
+        "kode": "03015106",
+        "nama": "PASIR ULAK KARANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5f896b1a03d54573a13c4ec3a1337f2b",
+        "kode": "03015211",
+        "nama": "PEBAYAN PENGGALANGAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "506d29d2f56d4c5cb3878f5b3802675f",
+        "kode": "03015207",
+        "nama": "PEMANCUNGAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dfbc4a64daf948e9b0da696d633f8032",
+        "kode": "03015616",
+        "nama": "PENGAMBIRAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5eee81764e524c7f8a3659e2513b25b6",
+        "kode": "03015604",
+        "nama": "PIAI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "93bcdcee5a144be0969270b1b0c021fb",
+        "kode": "03010805",
+        "nama": "Piai Tangah",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7790fc04ef8e43a0a2cdbf5dc81fb176",
+        "kode": "03015811",
+        "nama": "PIAI TANGAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "238db62c9e664966ae9a50838877f544",
+        "kode": "03010806",
+        "nama": "Pisang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a4b6de53b4fa4432bf833eae8b110709",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "70315f0c4b4543e8a7fcc1a9dcff61fa",
+        "kode": "03015813",
+        "nama": "PISANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9d08d856e74847a3840fd3c6f47298fd",
+        "kode": "03015605",
+        "nama": "PITAMEH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "129474974b8c4dcab653c3879bfda255",
+        "kode": "03011004",
+        "nama": "Pitameh Tanjung Saba Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8b7dd91656f8404383ea9d34a4a2dc5c",
+        "kode": "03015327",
+        "nama": "PONDOK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "69a81c0b9fa8488eab1b6b6bf7517a7e",
+        "kode": "03015512",
+        "nama": "PULAI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b6236d048c2b41f4b23bdbc268d3d13b",
+        "kode": "03015613",
+        "nama": "PULAU AIR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "53d04fedae944712b3c7b3bc3fcf998e",
+        "kode": "03010404",
+        "nama": "Purus",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "37f229565f374207936eca741bd2cfa8",
+        "kode": "03015304",
+        "nama": "PURUS ATAS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b5bb8c9fbd944eb895a6ebcd518b905a",
+        "kode": "03015306",
+        "nama": "PURUS BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ad514339214d495e8319594d3810c86d",
+        "kode": "03015307",
+        "nama": "PURUS KEBUN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6b1345a20e274ea782d3700e6a6db701",
+        "kode": "03015312",
+        "nama": "PURUS SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "cf3de8f703564af08c41bf2db664124f",
+        "kode": "03015305",
+        "nama": "PURUS TENGAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "577272bb97b4416084cb604ce2b8a430",
+        "kode": "03015301",
+        "nama": "PURUS UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ad3fe87354d2487e8520a2eeff30682a",
+        "kode": "03015209",
+        "nama": "RANAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ceaa442393854798b623cd3a7e34e980",
+        "kode": "03010203",
+        "nama": "Ranah Parak Rumbio",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8ab77b526bfa40d1a5dbcdab61bb0edb",
+        "kode": "03010209",
+        "nama": "Rawang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f17f2d2de3c44c4885b022283decd7bc",
+        "kode": "03015218",
+        "nama": "RAWANG BARAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6a22c482c0994f17897ef7972efd882a",
+        "kode": "03015219",
+        "nama": "RAWANG TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "95cea1b5eca740f0b6615d36ec07aaa1",
+        "kode": "03010402",
+        "nama": "Rimbo Kaluang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e234e4f4b78543ac81dc2bae5c8c08df",
+        "kode": "03015420",
+        "nama": "SARANG GAGAK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5c6bc4c00673460493720e7121d92fff",
+        "kode": "03010301",
+        "nama": "Sawahan",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a945780e54054cdba65ee0ae1d955d3c",
+        "kode": "03015403",
+        "nama": "SAWAHAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c0a4105ca597469cbf73d02568135c51",
+        "kode": "03015402",
+        "nama": "SAWAHAN DALAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2aa653b6d2e2468c9652ba435fd35ad9",
+        "kode": "03010304",
+        "nama": "Sawahan Timur",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "72ffe76f038144038b80abeacda07248",
+        "kode": "03010207",
+        "nama": "Seberang Padang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "18cd3698c3f945acb8a9ad74ea3214b1",
+        "kode": "03010207",
+        "nama": "Seberang padang 2",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "e8f149d562cf49b6ae564426f1d569d6",
+        "kode": "03015212",
+        "nama": "SEBERANG PADANG SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "93f456d1b94641ebbf028041abdaffad",
+        "kode": "03015213",
+        "nama": "SEBERANG PADANG UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "02335d8ca9314d4ba04be86aea6129b9",
+        "kode": "03010206",
+        "nama": "Seberang Palinggam",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "62749d95ef5a4dbfad9ecaa93a5bcb6e",
+        "kode": "03015210",
+        "nama": "SEBERANG PALINGGAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "cbd9d5cccd9e46c69ad24f017cb6a2f2",
+        "kode": "03015326",
+        "nama": "SIMPANG ENAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "51105d6b09c947e2b81012bbbf5bc1fa",
+        "kode": "03010305",
+        "nama": "Simpang Haru",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e8747125044430888ab7e65fe7b4e0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4880b53f658c4a05ac1a824c088380d9",
+        "kode": "03015412",
+        "nama": "SIMPANG HARU SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c848c6dab21b42728d965cd34e709abb",
+        "kode": "03015405",
+        "nama": "SIMPANG HARU UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7e6e7889b1dd48858e9196c2163e3167",
+        "kode": "03015516",
+        "nama": "SUNGAI BANGEK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2528ed44246d4d32a943a8f68149bc33",
+        "kode": "03015621",
+        "nama": "SUNGAI BEREMAS",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f38e1100190d4f4ba3bf65e939b2e131",
+        "kode": "03015503",
+        "nama": "SUNGAI LAREH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "78adff622afd4678bc91cbd360a16e60",
+        "kode": "03015712",
+        "nama": "SUNGAI PISANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9aa350b36e9545e092bd4188fc03f9bd",
+        "kode": "03010709",
+        "nama": "Sungai Sapih",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "77835835d723435c93fc31b3da0fffa1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2c39b9fee2bd4aecb9eadb70f065c521",
+        "kode": "03016009",
+        "nama": "SUNGAI SAPIH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "8cb03c93cb064fa98ee925e6016eb282",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "54d67546d1a948b0bdbbd176a325ccdf",
+        "kode": "03010601",
+        "nama": "Surau Gadang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d4a228bc08354c2294607b9f7788d20e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a621ef8bc43b431b8e8bd5fab27115e2",
+        "kode": "03015901",
+        "nama": "SURAU GADANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "eb266b7574e644d086f47ecdedbb080c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ff37307fc1424708ae4d99809f3babff",
+        "kode": "03010605",
+        "nama": "Tabiang Banda Gadang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d4a228bc08354c2294607b9f7788d20e",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5c46bc45cdf645acb267b6194f3c57ae",
+        "kode": "03015907",
+        "nama": "TABING BANDAR GADANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "eb266b7574e644d086f47ecdedbb080c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "939d2380eeca4ef5a71daedc5555b60a",
+        "kode": "03015322",
+        "nama": "TANAH BEROYO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dde7f4884a704cfcab796800239b0fd0",
+        "kode": "03015329",
+        "nama": "TANAH KONGSI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "30d7e40fa7144aeea1cba8e8051bf327",
+        "kode": "03015603",
+        "nama": "TANAH SIRAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "314f28b6e3d746048425a9d733dec9b7",
+        "kode": "03011003",
+        "nama": "Tanah Sirah Piai Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "eeb8b873fff94c05aa5ff4f2d05fb4de",
+        "kode": "03011007",
+        "nama": "Tanjung Aua Nan XX",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0c84e77381d7486189408c249ebe6daf",
+        "kode": "03015515",
+        "nama": "TANJUNG AUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "075b557b109a438f93777536847cbfe1",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7f5f3f5042ae468da8614ee78607a293",
+        "kode": "03015609",
+        "nama": "TANJUNG AUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "32ed952aafe648fdb71526ceafce8766",
+        "kode": "03015606",
+        "nama": "TANJUNG SABAR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6442d714ab1f4d7faa5cf5eac3e7c6fd",
+        "kode": "03010907",
+        "nama": "Tarantang",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "868a093ce8f44525ad51562eeaa6f89b",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fd76fbbac0a0459daae6a017f86a5d06",
+        "kode": "03016101",
+        "nama": "TARANTANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c65c713383184487a5a39862cc578aa0",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6d45b851546947fe958777319b825c76",
+        "kode": "03010210",
+        "nama": "Teluk Bayur",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "c8c0f877c22449a2816c8b50344d3c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9ef8e9508c484a8784181f7ae6b69859",
+        "kode": "03015221",
+        "nama": "TELUK BAYUR SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6d38d85d390c4da2b0400267413c5983",
+        "kode": "03015220",
+        "nama": "TELUK BAYUR UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4434e173314a468baac7bca870e48587",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "30d4945d9c5043dfad3ae78dc8b202e1",
+        "kode": "03015713",
+        "nama": "TELUK BUO",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "91cca891109f451b8a7b96c3d91389a9",
+        "kode": "03011106",
+        "nama": "Teluk Kabung Selatan",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "86c066bed4bc4485b8826d5dfbfc5680",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6880b18ef12d4fb480d26fc1ccbccce9",
+        "kode": "03011105",
+        "nama": "Teluk Kabung Tengah",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "86c066bed4bc4485b8826d5dfbfc5680",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "988670461d18491ea43122b87938dff4",
+        "kode": "03011104",
+        "nama": "Teluk Kabung Utara",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "86c066bed4bc4485b8826d5dfbfc5680",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8d42ab0a130242c988c2a5b58d64b6f4",
+        "kode": "03015620",
+        "nama": "TELUK NIBUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5d8f359a56a741979a2170ec8f2bd5ac",
+        "kode": "03015401",
+        "nama": "TERANDAM",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9c335323dd6d4d18909930e8d480b8ea",
+        "kode": "03015706",
+        "nama": "TIMBULUN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4653215b38854bba97ddcd7cdd028e01",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "449f50a8e3924e089b8f969b33a16993",
+        "kode": "03010403",
+        "nama": "Ujung Gurun",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "685dc900d7e24d02be13300c7c02c76a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9210278462cd4d6bb7e4c42f4e76f3bc",
+        "kode": "03015308",
+        "nama": "UJUNG GURUN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ca3659dd6cf943b3b95955f0f8030a2d",
+        "kode": "03015404",
+        "nama": "UJUNG GURUN TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a6100edb507844728caba155fe8f75b0",
+        "kode": "03015103",
+        "nama": "UJUNG KARANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fa645ddebe0541f8b3c533a646e49854",
+        "kode": "03015314",
+        "nama": "UJUNG PANDAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "e681895982ae4859a92380e4179e240a",
+        "kode": "03015109",
+        "nama": "ULAK KARANG BARAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "53ae211cfd774058bbf78715764ee94f",
+        "kode": "03010104",
+        "nama": "Ulak Karang Selatan",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "833a584d41a547bdb7c027e62cfdef56",
+        "kode": "03015107",
+        "nama": "ULAK KARANG SELATAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "962e802f709f4fb7bad4973d516e0bb4",
+        "kode": "03015108",
+        "nama": "ULAK KARANG TIMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a664ab6b83134079a68f9652c065bf19",
+        "kode": "03010103",
+        "nama": "Ulak Karang Utara",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "28a88d92a05f45e7adfeadac4b034596",
+        "kode": "03015105",
+        "nama": "ULAK KARANG UTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "fecb56564de74ac48ff0394239965e92",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3710dfd4597645b685e0c98f08e1d8d1",
+        "kode": "03010103",
+        "nama": "Ulak Karang Utara 2",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "6443e196582148e6a4319c1aa8e7ad52",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": "/Date(-769244400000)/"
+    },
+    {
+        "wilayahid": "664bf6024d9d441bb1e02faac19c8313",
+        "kode": "03015802",
+        "nama": "ULU GADUT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "68e2ce530d224eebb60aaf98933f0569",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

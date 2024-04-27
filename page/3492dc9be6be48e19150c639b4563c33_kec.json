@@ -1,0 +1,222 @@
+[
+    {
+        "wilayahid": "86c066bed4bc4485b8826d5dfbfc5680",
+        "kode": "030111",
+        "nama": "Bungus Teluk Kabung",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4653215b38854bba97ddcd7cdd028e01",
+        "kode": "030157",
+        "nama": "KC BUNGUS TLK KABUNG",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "075b557b109a438f93777536847cbfe1",
+        "kode": "030155",
+        "nama": "KC KOTO TANGAH",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8cb03c93cb064fa98ee925e6016eb282",
+        "kode": "030160",
+        "nama": "KC KURANJI",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "489d0e77279d4d01b38f8c5f2a6c3df8",
+        "kode": "030156",
+        "nama": "KC LUBUK BEGALUNG",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c65c713383184487a5a39862cc578aa0",
+        "kode": "030161",
+        "nama": "KC LUBUK KILANGAN",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "eb266b7574e644d086f47ecdedbb080c",
+        "kode": "030159",
+        "nama": "KC NANGGALO",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d73cfd71abbc401ca8d1096ee63fdebc",
+        "kode": "030153",
+        "nama": "KC PADANG BARAT",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "4434e173314a468baac7bca870e48587",
+        "kode": "030152",
+        "nama": "KC PADANG SELATAN",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d9a18317848942e3a3c7ce486ac3e5cd",
+        "kode": "030154",
+        "nama": "KC PADANG TIMUR",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fecb56564de74ac48ff0394239965e92",
+        "kode": "030151",
+        "nama": "KC PADANG UTARA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "68e2ce530d224eebb60aaf98933f0569",
+        "kode": "030158",
+        "nama": "KC PAUH",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1b723bea33e1432c8c11a95edaff77f0",
+        "kode": "030105",
+        "nama": "Koto Tangah",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "77835835d723435c93fc31b3da0fffa1",
+        "kode": "030107",
+        "nama": "Kuranji",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a0d59ac27e484469aeb3b2f42d3a84dc",
+        "kode": "030110",
+        "nama": "Lubuk Begalung Nan XX",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "868a093ce8f44525ad51562eeaa6f89b",
+        "kode": "030109",
+        "nama": "Lubuk Kilangan",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d4a228bc08354c2294607b9f7788d20e",
+        "kode": "030106",
+        "nama": "Nanggalo",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "685dc900d7e24d02be13300c7c02c76a",
+        "kode": "030104",
+        "nama": "Padang Barat",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c8c0f877c22449a2816c8b50344d3c33",
+        "kode": "030102",
+        "nama": "Padang Selatan",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "06e8747125044430888ab7e65fe7b4e0",
+        "kode": "030103",
+        "nama": "Padang Timur",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6443e196582148e6a4319c1aa8e7ad52",
+        "kode": "030101",
+        "nama": "Padang Utara",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a4b6de53b4fa4432bf833eae8b110709",
+        "kode": "030108",
+        "nama": "Pauh",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "3492dc9be6be48e19150c639b4563c33",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

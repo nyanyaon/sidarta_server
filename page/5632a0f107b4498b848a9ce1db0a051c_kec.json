@@ -1,0 +1,112 @@
+[
+    {
+        "wilayahid": "2C7DA867AB738671E053031D0B0A81F8",
+        "kode": "060109",
+        "nama": "ALAM BARAJO",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(1455642000000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2C7E26FA27DCE2CAE053141D0B0AA9AE",
+        "kode": "060110",
+        "nama": "DANAU SIPIN",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(1455642000000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f97bea94a27840d6af99879ddbc78375",
+        "kode": "060106",
+        "nama": "DANAU TELUK",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d81be2c83f444a869fb32640fac57d15",
+        "kode": "060103",
+        "nama": "JAMBI SELATAN",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c150c603de0e4eb6a04bbfa06b3c0254",
+        "kode": "060104",
+        "nama": "JAMBI TIMUR",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c94c7a676ec842a69c41d7ee143ec5dc",
+        "kode": "060107",
+        "nama": "JELUTUNG",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "3c3703c69ea2452caa48ef8d3f835d4d",
+        "kode": "060108",
+        "nama": "KOTA BARU",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2C7DD80AFBD3D658E053031D0B0A47F5",
+        "kode": "060111",
+        "nama": "PAAL MERAH",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(1455642000000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "24782cbc8d104faebd12a9eb458dfb99",
+        "kode": "060101",
+        "nama": "PASAR JAMBI",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "df81750f41a445ee802275aa21b52990",
+        "kode": "060105",
+        "nama": "PELAYANGAN",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "77056c64b8544a69889ae94651868ab1",
+        "kode": "060102",
+        "nama": "TELANAI PURA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "5632a0f107b4498b848a9ce1db0a051c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

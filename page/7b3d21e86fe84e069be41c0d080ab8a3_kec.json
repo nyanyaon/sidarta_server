@@ -1,0 +1,142 @@
+[
+    {
+        "wilayahid": "A5D12FC3C1B3FFAEE0400B0A9A141A12",
+        "kode": "070308",
+        "nama": "Air Nipis",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5CFAFC88F05799FE0400B0A9A147D48",
+        "kode": "070310",
+        "nama": "Bunga Mas",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5CFAE77304DACF2E0400B0A9A147D42",
+        "kode": "070301",
+        "nama": "Kedurang",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5D12FED93F902E4E0400B0A9A141A16",
+        "kode": "070307",
+        "nama": "Kedurang Ilir",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5CFAE773085ACF2E0400B0A9A147D42",
+        "kode": "070305",
+        "nama": "Kota Manna",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5CEE7A616B09653E0400B0A9A1448FA",
+        "kode": "070304",
+        "nama": "Manna",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "BAAAEE39785F4517E0400B0A9A142375",
+        "kode": "070344",
+        "nama": "MANNA (lama)",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(315507600000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5CFAE7730CEACF2E0400B0A9A147D42",
+        "kode": "070311",
+        "nama": "Pasar Manna",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5CFAE773068ACF2E0400B0A9A147D42",
+        "kode": "070303",
+        "nama": "Pino",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "B41CB88C5F8A2A48E0400B0A9A145911",
+        "kode": "070355",
+        "nama": "PINO (lama)",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(315507600000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5D12FED93EC02E4E0400B0A9A141A16",
+        "kode": "070306",
+        "nama": "Pino Raya",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "A5D12FEF731FE53BE0400B0A9A141A0E",
+        "kode": "070302",
+        "nama": "Seginim",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "C021D7716F955941E0400B0A9A147A35",
+        "kode": "070333",
+        "nama": "SELUMA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-788943600000)/",
+        "validsampai": "/Date(631126800000)/"
+    },
+    {
+        "wilayahid": "A5CFAE773097ACF2E0400B0A9A147D42",
+        "kode": "070309",
+        "nama": "Ulu Manna",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

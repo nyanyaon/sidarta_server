@@ -1,0 +1,122 @@
+[
+    {
+        "wilayahid": "4a1b913e3c78454cb7197a2f5fa04f5c",
+        "kode": "102606",
+        "nama": "BANTARGEBANG",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d372e6e78dd3476fa099781cc27a8dc4",
+        "kode": "102601",
+        "nama": "BEKASI BARAT",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "06e1923ced114858a9374dbe46d1281a",
+        "kode": "102602",
+        "nama": "BEKASI SELATAN",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "39486c0d0f3744e3be930f1a39753f03",
+        "kode": "102603",
+        "nama": "BEKASI TIMUR",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f9b106ce7e8643e584cff6e74599089c",
+        "kode": "102604",
+        "nama": "BEKASI UTARA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "7680708b1bce45c4afaa1498e1536313",
+        "kode": "102610",
+        "nama": "JATIASIH",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "1c9d7405a78a48b2a983d31979cdb5b8",
+        "kode": "102609",
+        "nama": "JATISAMPURNA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "051d034558594328a9fefcdac11138bc",
+        "kode": "102607",
+        "nama": "MEDANSATRIA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2a621ba51c2d4398a860381649d3c3f3",
+        "kode": "102611",
+        "nama": "MUSTIKA JAYA",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ba6f2a7985d44b2eb6978baae85a0527",
+        "kode": "102608",
+        "nama": "PONDOK GEDE",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "69498ac9463b4ad9ab693771dc1790ca",
+        "kode": "102612",
+        "nama": "PONDOK MELATI",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5d8ef604052a49738996971a8d3d28c2",
+        "kode": "102605",
+        "nama": "RAWA LUMBU",
+        "tipewilayahid": 5,
+        "tipe": null,
+        "induk": "eb069d207c30424dbb34871bbc980e2f",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

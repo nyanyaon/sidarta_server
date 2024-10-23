@@ -1,0 +1,562 @@
+[
+    {
+        "wilayahid": "d8144dcd416149a9882f1ab8b0514d75",
+        "kode": "10260303",
+        "nama": "AREN JAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "39486c0d0f3744e3be930f1a39753f03",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "39f5bdaf6df24b659f871be2a61c3b43",
+        "kode": "10260601",
+        "nama": "BANTAR GEBANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4a1b913e3c78454cb7197a2f5fa04f5c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "96f64353a9f3414ea6b402bc0d688748",
+        "kode": "10260301",
+        "nama": "BEKASI JAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "39486c0d0f3744e3be930f1a39753f03",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "363603616f604e649bfe6563ed1f9ca0",
+        "kode": "10260101",
+        "nama": "BINTARA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d372e6e78dd3476fa099781cc27a8dc4",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fcd8089b1be34ebd88ced4ce85c1d523",
+        "kode": "10260102",
+        "nama": "BINTARA JAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d372e6e78dd3476fa099781cc27a8dc4",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "435f9261051e4552b15bdadbc28f879b",
+        "kode": "10260502",
+        "nama": "BOJONG MENTENG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "5d8ef604052a49738996971a8d3d28c2",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "77b5d64b5b2d48ffb0035e02d2f80904",
+        "kode": "10260503",
+        "nama": "BOJONG RAWALUMBU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "5d8ef604052a49738996971a8d3d28c2",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d9f0d06f4c50425b901a2bb1c8acdeef",
+        "kode": "10260602",
+        "nama": "CIKETING UDIK",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4a1b913e3c78454cb7197a2f5fa04f5c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8e6ea96f6905408cae5428dda99bede2",
+        "kode": "10260603",
+        "nama": "CIKIWUL",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4a1b913e3c78454cb7197a2f5fa04f5c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a12f6b5614e2423bb7d915cbc92870a4",
+        "kode": "10261101",
+        "nama": "CIMUNING",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "2a621ba51c2d4398a860381649d3c3f3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ca3a0146aa3444c995e8b1761d9e25c9",
+        "kode": "10260304",
+        "nama": "DUREN JAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "39486c0d0f3744e3be930f1a39753f03",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "39419d30aaaf4b12b11ae210d604fc03",
+        "kode": "10260401",
+        "nama": "HARAPAN BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "f9b106ce7e8643e584cff6e74599089c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c6ae3f022ce9460bbab58d03eda941db",
+        "kode": "10260402",
+        "nama": "HARAPAN JAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "f9b106ce7e8643e584cff6e74599089c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "2de9b8235b8543618a061bc01bb43afc",
+        "kode": "10260704",
+        "nama": "HARAPAN MULYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "051d034558594328a9fefcdac11138bc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0c5e525f20cf444cafdb8e736bc2b9bb",
+        "kode": "10260203",
+        "nama": "JAKAMULYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e1923ced114858a9374dbe46d1281a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "c32622c396f84ac8aaf3c9c4b3d2d351",
+        "kode": "10260103",
+        "nama": "JAKASAMPURNA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d372e6e78dd3476fa099781cc27a8dc4",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "97bd577bde1546098641b7d9121ea5da",
+        "kode": "10260204",
+        "nama": "JAKASETIA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e1923ced114858a9374dbe46d1281a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "78de243f685d4d608b10799b5b805c3b",
+        "kode": "10261001",
+        "nama": "JATIASIH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "7680708b1bce45c4afaa1498e1536313",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "41123a6aa1e240f6b48c53b748206b60",
+        "kode": "10260802",
+        "nama": "JATIBENING",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "ba6f2a7985d44b2eb6978baae85a0527",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "316b69481e024b8cb6bee4b23bf45b80",
+        "kode": "10260805",
+        "nama": "JATIBENING BARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "ba6f2a7985d44b2eb6978baae85a0527",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "cae9606e1d5243d0bee898f93bb537fc",
+        "kode": "10260803",
+        "nama": "JATICEMPAKA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "ba6f2a7985d44b2eb6978baae85a0527",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "19eaae3fd6c04f25aecf593ac70c1749",
+        "kode": "10260903",
+        "nama": "JATIKARYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1c9d7405a78a48b2a983d31979cdb5b8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ec130706413b4f8a81d2451ec3777d07",
+        "kode": "10261004",
+        "nama": "JATIKRAMAT",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "7680708b1bce45c4afaa1498e1536313",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "ef8594322b6d4ed9a04cd5bc7d73cdfb",
+        "kode": "10261005",
+        "nama": "JATILUHUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "7680708b1bce45c4afaa1498e1536313",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d64334757e944a71b20e71533e0a2194",
+        "kode": "10260801",
+        "nama": "JATIMAKMUR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "ba6f2a7985d44b2eb6978baae85a0527",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "24b9bc959f4d400997157085bc4907ab",
+        "kode": "10261003",
+        "nama": "JATIMEKAR",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "7680708b1bce45c4afaa1498e1536313",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a316cf17674c4618be355b1bbcb1b8bb",
+        "kode": "10261203",
+        "nama": "JATIMELATI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "69498ac9463b4ad9ab693771dc1790ca",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "f51a810cbc8f41cc933599ee2b642d64",
+        "kode": "10261204",
+        "nama": "JATIMURNI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "69498ac9463b4ad9ab693771dc1790ca",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "519ad13f8e5d421b89cd9474bca17056",
+        "kode": "10260904",
+        "nama": "JATIRADEN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1c9d7405a78a48b2a983d31979cdb5b8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "d4606a0f9c88458b8ce7ca6431e28851",
+        "kode": "10261201",
+        "nama": "JATIRAHAYU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "69498ac9463b4ad9ab693771dc1790ca",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "aade9c4396934ca9b67dc89f2d68263b",
+        "kode": "10260905",
+        "nama": "JATIRANGGA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1c9d7405a78a48b2a983d31979cdb5b8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "8b9b33cf82cc413ebd79c64c002e2a99",
+        "kode": "10260902",
+        "nama": "JATIRANGGON",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1c9d7405a78a48b2a983d31979cdb5b8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5e2d32c347d04394acf41735df565658",
+        "kode": "10261006",
+        "nama": "JATIRASA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "7680708b1bce45c4afaa1498e1536313",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "0c700add51f848daa8d28ae9d86a4538",
+        "kode": "10260901",
+        "nama": "JATISAMPURNA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "1c9d7405a78a48b2a983d31979cdb5b8",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "fa681be1b00e49ad8579f2280e3c776e",
+        "kode": "10261002",
+        "nama": "JATISARI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "7680708b1bce45c4afaa1498e1536313",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "70114fb42bc548c594b37ce37674cb8f",
+        "kode": "10260804",
+        "nama": "JATIWARINGIN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "ba6f2a7985d44b2eb6978baae85a0527",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "b4bd5f898d144d21a2a4fb2ce2074311",
+        "kode": "10261202",
+        "nama": "JATIWARNA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "69498ac9463b4ad9ab693771dc1790ca",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "45442d26be404cd6b7a505cff7bd687e",
+        "kode": "10260403",
+        "nama": "KALIABANG TENGAH",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "f9b106ce7e8643e584cff6e74599089c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "feb4d3ee8b9942a9b9fac94b7f7ebe64",
+        "kode": "10260703",
+        "nama": "KALIBARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "051d034558594328a9fefcdac11138bc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "90e9c4f2f7314f4a94f75f380dbbab33",
+        "kode": "10260205",
+        "nama": "KAYURINGIN JAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e1923ced114858a9374dbe46d1281a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "75ff2a6bab9b4d98add958e4d8a1ce1c",
+        "kode": "10260105",
+        "nama": "KOTABARU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d372e6e78dd3476fa099781cc27a8dc4",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "421c1334ae6f49e6a8458d292714221c",
+        "kode": "10260104",
+        "nama": "KRANJI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "d372e6e78dd3476fa099781cc27a8dc4",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "32e3a966c63f4e4cb05b2e7bb3b3b9b9",
+        "kode": "10260302",
+        "nama": "MARGAHAYU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "39486c0d0f3744e3be930f1a39753f03",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "5d09968eb0a242e2a1838d8137b9db2e",
+        "kode": "10260201",
+        "nama": "MARGAJAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e1923ced114858a9374dbe46d1281a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "39f571897cd045e398db73d703c3cac1",
+        "kode": "10260406",
+        "nama": "MARGAMULYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "f9b106ce7e8643e584cff6e74599089c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6928d31a3d4c4287913d64c6447763c9",
+        "kode": "10260701",
+        "nama": "MEDANSATRIA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "051d034558594328a9fefcdac11138bc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "43de67dd93ff4983a5d145d2d8d90800",
+        "kode": "10261102",
+        "nama": "MUSTIKA JAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "2a621ba51c2d4398a860381649d3c3f3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "47db65dee50c4218b86f49c7558cef0f",
+        "kode": "10261103",
+        "nama": "MUSTIKA SARI",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "2a621ba51c2d4398a860381649d3c3f3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "6b5b9fc6f470405ba65445fba8a80130",
+        "kode": "10261104",
+        "nama": "PADURENAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "2a621ba51c2d4398a860381649d3c3f3",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "dad6660ab760454c8829b226f47cdda7",
+        "kode": "10260702",
+        "nama": "PEJUANG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "051d034558594328a9fefcdac11138bc",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "cb668f66b3944f429f57335ec90983cb",
+        "kode": "10260202",
+        "nama": "PEKAYONJAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "06e1923ced114858a9374dbe46d1281a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "09e3e671b50645e3ae9b7d6930a0ab1a",
+        "kode": "10260501",
+        "nama": "PENGASINAN",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "5d8ef604052a49738996971a8d3d28c2",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "9153a099e40f46d394ae8c4a97ee372b",
+        "kode": "10260404",
+        "nama": "PERWIRA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "f9b106ce7e8643e584cff6e74599089c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "a976d31730d64fc3970a9744bb9c24a6",
+        "kode": "10260504",
+        "nama": "SEPANJANG JAYA",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "5d8ef604052a49738996971a8d3d28c2",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "eb5e4eead9ed4cf7a3665dd33995395e",
+        "kode": "10260604",
+        "nama": "SUMUR BATU",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "4a1b913e3c78454cb7197a2f5fa04f5c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "342f5b6cf9e849bb9cf316e7f779d04a",
+        "kode": "10260405",
+        "nama": "TELUK PUCUNG",
+        "tipewilayahid": 7,
+        "tipe": null,
+        "induk": "f9b106ce7e8643e584cff6e74599089c",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
+    }
+]

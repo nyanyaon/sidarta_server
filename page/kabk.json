@@ -129,5 +129,36 @@
         "validsejak": "/Date(1495115040000)/",
         "validsampai": null,
         "statusgeometri": 1
+    },
+    {
+        "wilayahid": "5632a0f107b4498b848a9ce1db0a051c",
+        "kode": "0601",
+        "nama": "Jambi",
+        "tipewilayahid": 3,
+        "tipe": null,
+        "induk": "91d3a29ddadc4deda01b89d5055e708f",
+        "validsejak": "/Date(1230742800000)/",
+        "validsampai": null,
+        "statusgeometri": 1
+    },
+    {
+        "wilayahid": "7b3d21e86fe84e069be41c0d080ab8a3",
+        "kode": "0703",
+        "nama": "Bengkulu Selatan",
+        "tipewilayahid": 2,
+        "tipe": null,
+        "induk": "d67b43318d894ba587668f3af502f733",
+        "validsejak": "/Date(1495114982000)/",
+        "validsampai": null
+    },
+    {
+        "wilayahid": "eb069d207c30424dbb34871bbc980e2f",
+        "kode": "1026",
+        "nama": "BEKASI",
+        "tipewilayahid": 3,
+        "tipe": null,
+        "induk": "4961e81033e54e178daa527cf1818a8a",
+        "validsejak": "/Date(-769244400000)/",
+        "validsampai": null
     }
 ]
